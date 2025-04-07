@@ -1,0 +1,200 @@
+Unnamed: 0,Gene,Prediction,Measured_growth,Growth_cutoff,Computational_growth,Condition,Dataset
+22115,b0003,TN,0.0,"0,5",0,Glucose,Monk 2015
+22116,b0004,TN,0.0,"0,5",0,Glucose,Monk 2015
+22122,b0025,TN,0.0,"0,5",0,Glucose,LB_essential
+22123,b0029,TN,0.0,"0,5",0,Glucose,LB_essential
+22125,b0031,TN,0.0,"0,5",0,Glucose,LB_essential
+22126,b0032,FP,0.0,"0,5","0,8217979336",Glucose,Monk 2015
+22127,b0033,FP,0.0,"0,5","0,8217979336",Glucose,Monk 2015
+22134,b0048,FP,0.0,"0,5","0,8217979336",Glucose,LB_essential
+22137,b0054,TN,0.0,"0,5",0,Glucose,LB_essential
+22142,b0071,TN,0.0,"0,5",0,Glucose,Monk 2015
+22143,b0072,TN,0.0,"0,5",0,Glucose,Monk 2015
+22144,b0073,FP,0.0,"0,5","0,8217979336",Glucose,Monk 2015
+22145,b0074,TN,0.0,"0,5",0,Glucose,Monk 2015
+22148,b0084,TN,0.0,"0,5",0,Glucose,LB_essential
+22149,b0085,TN,0.0,"0,5",0,Glucose,LB_essential
+22150,b0086,TN,0.0,"0,5",0,Glucose,LB_essential
+22151,b0087,TN,0.0,"0,5",0,Glucose,LB_essential
+22152,b0088,TN,0.0,"0,5",0,Glucose,LB_essential
+22153,b0089,TN,0.0,"0,5",0,Glucose,LB_essential
+22154,b0090,TN,0.0,"0,5",0,Glucose,LB_essential
+22155,b0091,TN,0.0,"0,5",0,Glucose,LB_essential
+22157,b0096,TN,0.0,"0,5",0,Glucose,LB_essential
+22159,b0103,TN,0.0,"0,5",0,Glucose,LB_essential
+22161,b0109,TN,0.0,"0,5",0,Glucose,Monk 2015
+22173,b0126,FP,0.0,"0,5","0,8217979336",Glucose,LB_essential
+22177,b0142,TN,0.0,"0,5",0,Glucose,LB_essential
+22183,b0154,TN,0.0,"0,5",0,Glucose,LB_essential
+22188,b0166,TN,0.0,"0,5",0,Glucose,LB_essential
+22189,b0171,FP,0.0,"0,5","0,8217979336",Glucose,LB_essential
+22190,b0173,TN,0.0,"0,5",0,Glucose,LB_essential
+22191,b0174,TN,0.0,"0,5",0,Glucose,LB_essential
+22192,b0175,TN,0.0,"0,5",0,Glucose,LB_essential
+22193,b0179,TN,0.0,"0,5",0,Glucose,LB_essential
+22194,b0180,TN,0.0,"0,5",0,Glucose,LB_essential
+22195,b0181,TN,0.0,"0,5",0,Glucose,LB_essential
+22196,b0182,TN,0.0,"0,5",0,Glucose,LB_essential
+22197,b0185,TN,0.0,"0,5",0,Glucose,LB_essential
+22211,b0242,TN,0.0,"0,5",0,Glucose,Monk 2015
+22212,b0243,TN,0.0,"0,5",0,Glucose,Monk 2015
+22249,b0369,TN,0.0,"0,5",0,Glucose,LB_essential
+22253,b0386,TN,0.0,"0,5",0,Glucose,Monk 2015
+22261,b0414,TN,0.0,"0,5",0,Glucose,LB_essential
+22262,b0415,TN,0.0,"0,5",0,Glucose,LB_essential
+22263,b0417,TN,0.0,"0,5",0,Glucose,LB_essential
+22265,b0420,TN,0.0,"0,5",0,Glucose,LB_essential
+22266,b0421,TN,0.0,"0,5",0,Glucose,LB_essential
+22284,b0474,FP,0.0,"0,5","0,8217935269",Glucose,LB_essential
+22285,b0475,FP,0.0,"0,5","0,8217979336",Glucose,LB_essential
+22303,b0522,TN,0.0,"0,5",0,Glucose,Monk 2015
+22304,b0523,TN,0.0,"0,5",0,Glucose,Monk 2015
+22305,b0524,TN,0.0,"0,5",0,Glucose,LB_essential
+22306,b0529,FP,0.0,"0,5","0,803243054",Glucose,LB_essential
+22315,b0583,FP,0.0,"0,5","0,8217979336",Glucose,LB_essential
+22343,b0635,TN,0.0,"0,5",0,Glucose,LB_essential
+22345,b0639,TN,0.0,"0,5","0,000000001276763294",Glucose,LB_essential
+22346,b0641,TN,0.0,"0,5",0,Glucose,LB_essential
+22353,b0657,FP,0.0,"0,5","0,8217979336",Glucose,LB_essential
+22361,b0684,FP,0.0,"0,5","0,8217979336",Glucose,LB_essential
+22380,b0733,FP,0.0,"0,5","0,8217979336",Glucose,LB_essential
+22442,b0886,FP,0.0,"0,5","0,8217979336",Glucose,LB_essential
+22452,b0907,FP,0.0,"0,5","0,7876170472",Glucose,Monk 2015
+22453,b0908,TN,0.0,"0,5",0,Glucose,Monk 2015
+22455,b0914,TN,0.0,"0,5",0,Glucose,LB_essential
+22456,b0915,TN,0.0,"0,5",0,Glucose,LB_essential
+22457,b0918,TN,0.0,"0,5",0,Glucose,LB_essential
+22469,b0954,FP,0.0,"0,5","0,8217979336",Glucose,LB_essential
+22499,b1062,TN,0.0,"0,5",0,Glucose,Monk 2015
+22501,b1069,TN,0.0,"0,5",0,Glucose,LB_essential
+22504,b1092,TN,0.0,"0,5",0,Glucose,LB_essential
+22505,b1093,TN,0.0,"0,5",0,Glucose,LB_essential
+22506,b1094,TN,0.0,"0,5",0,Glucose,LB_essential
+22510,b1098,TN,0.0,"0,5",0,Glucose,LB_essential
+22523,b1131,TN,0.0,"0,5",0,Glucose,LB_essential
+22525,b1136,TN,0.0,"0,5",0,Glucose,Monk 2015
+22537,b1207,FP,0.0,"0,5","0,8217979336",Glucose,LB_essential
+22538,b1208,TN,0.0,"0,5",0,Glucose,LB_essential
+22539,b1210,TN,0.0,"0,5",0,Glucose,LB_essential
+22540,b1215,TN,0.0,"0,5",0,Glucose,LB_essential
+22559,b1260,TN,0.0,"0,5",0,Glucose,Monk 2015
+22560,b1261,TN,0.0,"0,5",0,Glucose,Monk 2015
+22566,b1277,TN,0.0,"0,5",0,Glucose,LB_essential
+22568,b1281,TN,0.0,"0,5",0,Glucose,Monk 2015
+22570,b1288,TN,0.0,"0,5",0,Glucose,LB_essential
+22687,b1662,TN,0.0,"0,5",0,Glucose,LB_essential
+22699,b1693,TN,0.0,"0,5",0,Glucose,Monk 2015
+22716,b1740,TN,0.0,"0,5",0,Glucose,LB_essential
+22729,b1779,FP,0.0,"0,5","0,5758353074",Glucose,LB_essential
+22763,b1912,FP,0.0,"0,5","0,8217979336",Glucose,LB_essential
+22779,b2019,TN,0.0,"0,5",0,Glucose,Monk 2015
+22780,b2020,TN,0.0,"0,5",0,Glucose,Monk 2015
+22781,b2021,TN,0.0,"0,5",0,Glucose,Monk 2015
+22782,b2022,TN,0.0,"0,5",0,Glucose,Monk 2015
+22783,b2023,TN,0.0,"0,5",0,Glucose,Monk 2015
+22784,b2024,TN,0.0,"0,5",0,Glucose,Monk 2015
+22785,b2025,TN,0.0,"0,5",0,Glucose,Monk 2015
+22786,b2026,TN,0.0,"0,5",0,Glucose,Monk 2015
+22829,b2153,TN,0.0,"0,5",0,Glucose,LB_essential
+22865,b2234,FP,0.0,"0,5","0,8217979336",Glucose,LB_essential
+22866,b2235,FP,0.0,"0,5","0,8217979336",Glucose,LB_essential
+22912,b2312,TN,0.0,"0,5",0,Glucose,Monk 2015
+22913,b2315,TN,0.0,"0,5","0,0000000001728810281",Glucose,LB_essential
+22914,b2316,TN,0.0,"0,5",0,Glucose,LB_essential
+22916,b2323,TN,0.0,"0,5",0,Glucose,LB_essential
+22918,b2329,TN,0.0,"0,5",0,Glucose,Monk 2015
+22932,b2400,TN,0.0,"0,5",0,Glucose,LB_essential
+22935,b2411,FP,0.0,"0,5","0,8217979336",Glucose,LB_essential
+22961,b2472,TN,0.0,"0,5",0,Glucose,LB_essential
+22962,b2476,TN,0.0,"0,5",0,Glucose,Monk 2015
+22963,b2478,TN,0.0,"0,5",0,Glucose,LB_essential
+22966,b2482,FP,0.0,"0,5","0,8217979336",Glucose,Monk 2015
+22978,b2499,TN,0.0,"0,5","0,0000000001309525942",Glucose,Monk 2015
+22983,b2507,TN,0.0,"0,5",0,Glucose,Monk 2015
+22984,b2508,FP,0.0,"0,5","0,81862496",Glucose,Monk 2015
+22985,b2515,TN,0.0,"0,5",0,Glucose,LB_essential
+22992,b2530,TN,0.0,"0,5",0,Glucose,Monk 2015
+22993,b2533,FP,0.0,"0,5","0,8217979336",Glucose,LB_essential
+23002,b2557,TN,0.0,"0,5",0,Glucose,Monk 2015
+23004,b2563,FP,0.0,"0,5","0,8217979336",Glucose,LB_essential
+23010,b2585,TN,0.0,"0,5",0,Glucose,LB_essential
+23012,b2599,TN,0.0,"0,5",0,Glucose,Monk 2015
+23013,b2600,TN,0.0,"0,5",0,Glucose,Monk 2015
+23015,b2615,TN,0.0,"0,5",0,Glucose,LB_essential
+23052,b2746,TN,0.0,"0,5",0,Glucose,LB_essential
+23053,b2747,TN,0.0,"0,5",0,Glucose,LB_essential
+23054,b2750,TN,0.0,"0,5",0,Glucose,Monk 2015
+23058,b2763,TN,0.0,"0,5",0,Glucose,Monk 2015
+23059,b2764,TN,0.0,"0,5",0,Glucose,Monk 2015
+23061,b2779,FP,0.0,"0,5","0,6654618649",Glucose,LB_essential
+23062,b2780,TN,0.0,"0,5",0,Glucose,LB_essential
+23079,b2818,TN,0.0,"0,5",0,Glucose,Monk 2015
+23082,b2838,TN,0.0,"0,5",0,Glucose,Monk 2015
+23105,b2913,FP,0.0,"0,5","0,7876193944",Glucose,Monk 2015
+23113,b2925,FP,0.0,"0,5","0,8217979336",Glucose,LB_essential
+23114,b2926,FP,0.0,"0,5","0,5758353074",Glucose,LB_essential
+23122,b2942,TN,0.0,"0,5",0,Glucose,LB_essential
+23147,b3018,TN,0.0,"0,5",0,Glucose,LB_essential
+23154,b3041,TN,0.0,"0,5",0,Glucose,LB_essential
+23157,b3058,TN,0.0,"0,5",0,Glucose,Monk 2015
+23180,b3172,TN,0.0,"0,5",0,Glucose,Monk 2015
+23181,b3176,TN,0.0,"0,5",0,Glucose,LB_essential
+23182,b3177,TN,0.0,"0,5",0,Glucose,LB_essential
+23184,b3187,TN,0.0,"0,5",0,Glucose,LB_essential
+23185,b3189,TN,0.0,"0,5",0,Glucose,LB_essential
+23189,b3199,TN,0.0,"0,5",0,Glucose,LB_essential
+23190,b3200,TN,0.0,"0,5",0,Glucose,LB_essential
+23191,b3201,TN,0.0,"0,5",0,Glucose,LB_essential
+23204,b3255,TN,0.0,"0,5",0,Glucose,LB_essential
+23205,b3256,TN,0.0,"0,5",0,Glucose,LB_essential
+23209,b3281,FP,0.0,"0,5","0,8217979336",Glucose,Monk 2015
+23219,b3368,TN,0.0,"0,5",0,Glucose,Monk 2015
+23225,b3389,TN,0.0,"0,5",0,Glucose,Monk 2015
+23243,b3433,TN,0.0,"0,5",0,Glucose,LB_essential
+23305,b3607,TN,0.0,"0,5",0,Glucose,Monk 2015
+23306,b3608,FP,0.0,"0,5","0,8211157429",Glucose,LB_essential
+23316,b3623,FP,0.0,"0,5","0,8217979336",Glucose,LB_essential
+23326,b3633,TN,0.0,"0,5",0,Glucose,LB_essential
+23327,b3634,TN,0.0,"0,5",0,Glucose,LB_essential
+23328,b3639,TN,0.0,"0,5","-0,000000001056174747",Glucose,LB_essential
+23329,b3640,FP,0.0,"0,5","0,8217979336",Glucose,LB_essential
+23330,b3642,TN,0.0,"0,5",0,Glucose,Monk 2015
+23331,b3648,TN,0.0,"0,5",0,Glucose,LB_essential
+23332,b3650,FP,0.0,"0,5","0,8217979336",Glucose,LB_essential
+23356,b3729,TN,0.0,"0,5",0,Glucose,LB_essential
+23357,b3730,TN,0.0,"0,5",0,Glucose,LB_essential
+23374,b3770,TN,0.0,"0,5",0,Glucose,Monk 2015
+23375,b3771,TN,0.0,"0,5",0,Glucose,Monk 2015
+23377,b3774,TN,0.0,"0,5",0,Glucose,Monk 2015
+23389,b3793,FP,0.0,"0,5","0,8217979336",Glucose,LB_essential
+23391,b3804,TN,0.0,"0,5","-0,000000000294712548",Glucose,LB_essential
+23392,b3805,TN,0.0,"0,5",0,Glucose,LB_essential
+23394,b3809,TN,0.0,"0,5",0,Glucose,Monk 2015
+23402,b3829,FP,0.0,"0,5","0,8217979336",Glucose,Monk 2015
+23405,b3843,TN,0.0,"0,5",0,Glucose,LB_essential
+23410,b3850,TN,0.0,"0,5",0,Glucose,LB_essential
+23415,b3870,TN,0.0,"0,5",0,Glucose,Monk 2015
+23435,b3919,FP,0.0,"0,5","0,7507843865",Glucose,Monk 2015
+23441,b3939,TN,0.0,"0,5",0,Glucose,Monk 2015
+23443,b3941,TN,0.0,"0,5",0,Glucose,Monk 2015
+23451,b3957,TN,0.0,"0,5",0,Glucose,Monk 2015
+23452,b3958,TN,0.0,"0,5",0,Glucose,Monk 2015
+23453,b3959,TN,0.0,"0,5",0,Glucose,Monk 2015
+23454,b3960,TN,0.0,"0,5",0,Glucose,Monk 2015
+23456,b3966,FP,0.0,"0,5","0,8217979336",Glucose,LB_essential
+23457,b3967,TN,0.0,"0,5",0,Glucose,LB_essential
+23458,b3972,TN,0.0,"0,5",0,Glucose,LB_essential
+23459,b3974,TN,0.0,"0,5",0,Glucose,LB_essential
+23466,b3997,TN,0.0,"0,5","-0,000000000417963194",Glucose,LB_essential
+23467,b4005,TN,0.0,"0,5",0,Glucose,Monk 2015
+23468,b4006,TN,0.0,"0,5",0,Glucose,Monk 2015
+23469,b4013,TN,0.0,"0,5",0,Glucose,Monk 2015
+23483,b4040,TN,0.0,"0,5",0,Glucose,LB_essential
+23484,b4041,FP,0.0,"0,5","0,8217979336",Glucose,LB_essential
+23498,b4084,FP,0.0,"0,5","0,8217979336",Glucose,LB_essential
+23537,b4160,TN,0.0,"0,5",0,Glucose,LB_essential
+23542,b4177,TN,0.0,"0,5",0,Glucose,Monk 2015
+23555,b4226,FP,0.0,"0,5","0,8217979336",Glucose,LB_essential
+23569,b4261,TN,0.0,"0,5",0,Glucose,LB_essential
+23570,b4262,TN,0.0,"0,5",0,Glucose,LB_essential
+23598,b4388,FP,0.0,"0,5","0,7876193944",Glucose,Monk 2015
